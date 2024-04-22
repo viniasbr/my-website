@@ -1,0 +1,4 @@
+baseURL = 'https://viniasbr.github.io'
+languageCode = 'pt-br'
+title = "My Website"
+theme = 'PaperMod'
